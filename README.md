@@ -3,7 +3,7 @@
 ## You must have scrapy installed!
 
 demo_project is the main folder.
-In the rest 4 files, data.csv, data.json, data_cleaned.csv and data_text.json, are the output files generated.
+The rest 4 files: data.csv, data.json, data_cleaned.csv and data_text.json, are the output files generated.
 
 For getting the output,
 Go to the folder in which you have cloned this repo.
